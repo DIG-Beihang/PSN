@@ -29,5 +29,11 @@ sh scripts/test-all-1-2.sh
 ## Citation
 If this work helps your research, please cite the following paper.
 ```
+@inproceedings{Tao:CVPR22,
+  author    = {Renshuai Tao and Hainan Li and Tianbo Wang and Yanlu Wei and Yifu Ding and Bowei Jin and, Hongping Zhi and Xianglong Liu and Aishan Liu},
+  title     = {Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network},
+  booktitle = {IEEE CVPR},
+  year      = {2022},
+  } 
 
 ```
