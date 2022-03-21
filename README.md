@@ -23,7 +23,7 @@ sh scripts/train-1-2-fc.sh
 ## Test
 The `scripts` folder has all the testing scripts. For example, if you want to test a model trained from domain1 to domain2, just run:
 ```
-sh scripts/test-all-1-2-.sh
+sh scripts/test-all-1-2.sh
 ```
 
 ## Citation
