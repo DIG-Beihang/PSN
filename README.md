@@ -1,5 +1,5 @@
-# PSN
-Implement of CVPR 2022 paper 《**Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network**》
+# EDS dataset and the code implementation of PSN
+CVPR 2022 paper 《**Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network**》
 
 ## Datasets Download Link
 ```
