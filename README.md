@@ -1,7 +1,7 @@
 # EDS dataset and the code implementation of PSN
 CVPR 2022 paper 《**Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network**》
 
-## Datasets Download Link
+## Download Link of EDS Dataset
 ```
 (China mainland, BaiduNetdisk)：https://pan.baidu.com/s/1IzjPsoCowr2MYKbuOXuqUg (password：buaa)
 (Other area, Google Drive): https://drive.google.com/file/d/17ids6mpIKpc_g67_CKC8aUnRDMeo6wxa/view?usp=sharing
@@ -11,7 +11,7 @@ CVPR 2022 paper 《**Exploring Endogenous Shift for Cross-domain Detection: A La
 - Python 3.6
 - Pytorch 0.4.1
 - CUDA 8.0 or higher
-## Compilation
+## Compile
 
 ```
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ The `scripts` folder has all the training scripts. For example, if you want to t
 ```
 sh scripts/train-1-2-fc.sh
 ```
-## Test
+## Testing
 The `scripts` folder has all the testing scripts. For example, if you want to test a model trained from domain1 to domain2, just run:
 ```
 sh scripts/test-all-1-2.sh
