@@ -2,6 +2,8 @@
 
 CVPR 2022 paper 《**Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network**》
 
+[English](README.md) | [简体中文](README_ZH.md)
+
 ## Download Link of EDS Dataset:
 
 Please follow the instructions in: https://github.com/DIG-Beihang/XrayDetection to obtain the EDS download link.
